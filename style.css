@@ -1,0 +1,574 @@
+.areatotale{
+    width: auto;
+    height: auto;
+  }
+  
+  .sfondoiniziale{
+    width: auto;
+    height: 50px;
+    background-color:rgb(29, 29, 49);
+  }
+  
+  .logoiniziale{
+    margin-top: 7px;
+    margin-left: 25px;
+    width: 80px;
+    height: 40px;
+  
+  }
+  
+  /* descrizione menu inizio */
+  .menuiniziale{
+    width: 1520px;
+    height: 38px;
+    margin-bottom: 30px;
+  
+  }
+  
+  .menugrafico ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(35,47, 63);
+  }
+  .menugrafico ul:hover {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  .menugrafico li {
+    float: left;
+  }
+  
+  .menugrafico li a {
+    display: block;
+    color:white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* fine descrizione menu */
+  
+  .blocco-arancio{
+    
+    background-color: rgb(196, 130, 7);
+    color: white;
+    width: auto;
+    height: auto;
+    padding: auto;
+    margin-right: 30px;
+    margin-left: 30px;
+  
+    
+  }
+  
+  .frase-interna{
+    text-align: center;
+    padding: 5px;
+    font-family: 'Open Sans', sans-serif;
+  
+  }
+  
+  .immaginebg{
+    
+    background-image: url('bg-image.png');
+    text-align: center;
+    padding: auto;
+    margin-left: 30px;
+    margin-right: 30px;
+    width: auto;
+    height: 150px;
+    margin-bottom: 20px;
+  
+  }
+  
+  h3{
+    padding: 30px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  .scrittaholiday{
+    font-family: 'Open Sans', sans-serif;
+    color:white;
+  }
+  
+  .findgift{
+    margin-left: 40px;
+  }
+  
+  .shopnow{
+    margin-left: 20px;
+    color:rgb(37, 149, 149)
+  }
+  
+
+
+  .flexbox{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+  }
+  .colorb{
+    width: 280px;
+    height: 350px;
+    background-color: black;
+    border-radius: 10px;
+  }
+  
+  .imm1{
+    
+    width: 280px;
+    height: 350px;
+    border-radius: 10px;
+    object-fit: cover;
+
+  }
+
+
+  .imm1:hover{
+    opacity: 0.4;
+
+  }
+
+  .addcard1{
+    position: absolute;
+    right: 1300px;
+    background-color: rgb(30, 144, 188);
+    top: 680px;
+    font-size: 1rem;
+    padding: 8px;
+    border-radius: 10px;
+    color: white;
+  }
+
+  .cuore1{
+    position: absolute;
+    top:380px;
+    left: 310px;
+    color: red;
+  }
+  .cuore1 i {
+    font-size: 1.5rem;
+  }
+  .cuore2 i {
+    font-size: 1.5rem;
+  }
+  .cuore3 i {
+    font-size: 1.5rem;
+  }
+  .cuore4 i {
+    font-size: 1.5rem;
+  }
+  
+  .imm2{
+  
+    width: 280px;
+    height: 350px;
+    border-radius: 10px;
+    object-fit: cover;
+    object-position: center;
+  }
+
+  .cuore2{
+    position: absolute;
+    color: red;
+    top:380px;
+    left: 680px;
+  }
+
+  .addcard2{
+    position: absolute;
+    right: 920px;
+    background-color: rgb(30, 144, 188);
+    color: white;
+    padding: 8px;
+    border-radius: 10px;
+    top: 680px;
+  }
+
+  .imm2:hover{
+    opacity: 0.4;
+  }
+  
+  .imm3{
+    width: 280px;
+    height: 350px;
+    border-radius: 10px;
+    object-fit: cover;
+    object-position: center;
+  
+  }
+
+  .addcard3{
+    background-color: rgb(30, 144, 188);
+    color: white;
+    position: absolute;
+    padding: 8px;
+    border-radius: 10px;
+    left: 900px;
+    top: 680px;
+  }
+
+  .cuore3{
+    position: absolute;
+    color: red;
+    top:380px;
+    left: 1060px;
+  }
+
+  .imm3:hover{
+    opacity: 0.4;
+  }
+
+  .imm4{
+    width: 280px;
+    height: 350px;
+    border-radius: 10px;
+    object-fit: cover;
+    object-position: center;
+  
+  }
+
+  .addcard4{
+    position: absolute;
+    color: white;
+    background-color: rgb(30, 144, 188);
+    padding: 8px;
+    border-radius: 10px;
+    top:680px;
+    left: 1270px;
+  }
+
+  .cuore4{
+    position: absolute;
+    color: red;
+    top:380px;
+    left: 1430px;
+  }
+
+  .imm4:hover{
+    opacity: 0.4;
+  }
+  
+  .flexbox2{
+  
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+  }
+  
+  .riquadro1{
+     
+    width: 300px;
+    height: 360px;
+    
+    
+  
+  }
+  
+  
+  .imm15{
+   
+    width: 135px;
+    height: 100px;
+    margin-left: auto;
+    
+  }
+  
+  .imm16{
+   
+    width: 135px;
+    height: 100px;
+    
+  }
+  
+  div h2{
+  
+    padding-left: 20px;
+  }
+  
+  .scritta1{
+    display: inline;
+    margin-left: 40px;
+    
+  }
+  
+  .scritta2{
+    display: inline;
+    margin-left: 90px;
+    
+  }
+  
+  .imm17{
+  
+    width: 135px;
+    height: 100px;
+    margin-left: auto;
+    margin-top: 18px;
+  }
+  
+  .imm18{
+    width: 135px;
+    height: 100px;
+  
+  }
+  .scritta3{
+    display: inline;
+    margin-left: 40px;
+  
+  }
+  
+  .scritta4{
+  
+    display: inline;
+    margin-left: 90px;
+  }
+  
+  .riquadro2{
+    width: 300px;
+    height: 360px;
+    
+  
+  
+  }
+  
+  .imm19{
+    width: 135px;
+    height: 100px;
+    margin-left: 13px;
+  
+  
+  }
+  
+  .imm20{
+  
+    width: 135px;
+    height: 100px;
+  }
+  
+  .imm21{
+    width: 135px;
+    height: 100px;
+    margin-left: auto;
+    margin-top: 18px;
+    margin-left: 13px;
+  
+  }
+  
+  .imm22{
+    
+    width: 135px;
+    height: 100px;
+  }
+  
+  .scritta5{
+    display: inline;
+    margin-left: 40px;
+  
+  
+  }
+  
+  .scritta6{
+  
+    display: inline;
+    margin-left: 90px;
+  }
+  
+  .scritta7{
+  
+    display: inline;
+    margin-left: 40px;
+  }
+  
+  .scritta8{
+  
+    display: inline;
+    margin-left: 90px;
+  }
+  
+  .riquadro3{
+    width: 300px;
+    height: 360px;
+    
+  
+  }
+  
+  .imm11{
+  
+    width: 135px;
+    height: 100px;
+    margin-left: 13px;
+  }
+  
+  .imm12{
+  
+    width: 135px;
+    height: 100px;
+  }
+  
+  .imm13{
+    width: 135px;
+    height: 100px;
+    margin-left: 13px;
+    margin-top: 18px;
+  
+  }
+  
+  .imm14{
+    width: 135px;
+    height: 100px;
+  
+  }
+  
+  .scritta9{
+    display: inline;
+    margin-left: 40px;
+  
+  }
+  
+  .scritta10{
+    display: inline;
+    margin-left: 90px;
+  
+  }
+  
+  .scritta11{
+  
+    display: inline;
+    margin-left: 40px;
+  }
+  
+  .scritta12{
+  
+    display: inline;
+    margin-left: 50px;
+  }
+  
+  .riquadro4{
+    width: 300px;
+    height: 360px;
+    
+  
+  }
+  
+  .imm23{
+    width: 135px;
+    height: 100px;
+    margin-left: 13px;
+  
+  }
+  
+  .imm24{
+    width: 135px;
+    height: 100px;
+  
+  }
+  
+  .imm25{
+    width: 135px;
+    height: 100px;
+    margin-left: 13px;
+    margin-top: 18px;
+  }
+  
+  
+  
+  .imm26{
+  
+    width: 135px;
+    height: 100px;
+  }
+  
+  .scritta13{
+    display: inline;
+    margin-left: 40px;
+  
+  
+  }
+  
+  .scritta14{
+    display: inline;
+    margin-left: 110px;
+  
+  }
+  
+  .scritta15{
+    display: inline;
+    margin-left: 40px;
+  
+  
+  }
+  
+  .scritta16{
+  
+    display: inline;
+    margin-left: 110px;
+  }
+  
+  .imm9{
+  
+    width: 1450px;
+    height: 500px;
+    margin-bottom: 2px;
+  }
+  
+  .flexbox3{
+  
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .play{
+    text-align: center;
+  }
+  
+  .flexbox4{
+  
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .imm10{
+    
+    width: 1450px;
+    height: 500px;
+    margin-left: 8px;
+  }
+  
+  .sound{
+  
+    text-align: center;
+  }
+  
+  .sfondofinale1{
+    background-color:rgb(40, 40, 67);
+    width: auto; 
+    height: 50px;
+  
+  }
+  
+  .scrittafinale1{
+    text-align: center;
+    color: white;
+    padding: 15px;
+  }
+  
+  .logofinale{
+    margin-left: 720px;
+    margin-top: 35px;
+    width: 80px;
+    height: 40px;
+    
+  }
+  
+  .sfondologofinale{
+    width: auto;
+    height: 100px;
+    background-color:rgb(29, 29, 49);
+  }
